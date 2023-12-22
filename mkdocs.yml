@@ -1,3 +1,7 @@
 site_name: nelsone.io
-plugins:
-  - blog
+theme:
+  name: material
+nav:
+  - Home: "index.md"
+  - Landing Zone
+    - Getting Started: "landing_zone/index.md"
