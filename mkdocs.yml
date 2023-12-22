@@ -3,5 +3,5 @@ theme:
   name: material
 nav:
   - Home: "index.md"
-  - Landing Zone
+  - Landing Zone:
     - Getting Started: "landing_zone/index.md"
