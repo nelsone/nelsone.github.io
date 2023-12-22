@@ -1,4 +1,4 @@
-name: ci
+name: github-pages-nelsoneio
 on:
   push:
     branches:
