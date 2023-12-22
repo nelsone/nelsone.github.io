@@ -1,4 +1,4 @@
-name: github-pages-nelsoneio
+name: github-pages-nelsone-io
 on:
   push:
     branches:
